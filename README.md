@@ -28,28 +28,28 @@ Analyzing and identifying common attack vectors used by malicious actors to comp
 ### Lab 4: Implementing Security Monitoring and Logging
 Deploying comprehensive security monitoring and logging solutions to detect and respond to security incidents.
 
-📄 **[View Lab Report](./Lab-4/)**
+📄 **[View Lab Report](./lab%204/Implementing%20Security%20Monitoring%20and%20Logging)**
 
 ---
 
 ### Lab 5: Implementing an IT Security Policy
 Developing and implementing effective IT security policies to establish governance and security standards across the organization.
 
-📄 **[View Lab Report](./Lab-5/)**
+📄 **[View Lab Report](./lab%205/Implementing%20an%20IT%20Security%20Policy)**
 
 ---
 
 ### Lab 6: Performing Packet Capture and Traffic Analysis
 Capturing and analyzing network traffic to understand communication patterns and identify potential security issues.
 
-📄 **[View Lab Report](./Lab-6/)**
+📄 **[View Lab Report](./lab%206/Perfroming%20Packet%20capture%20and%20Traficc%20Analysis)**
 
 ---
 
 ### Lab 7: Performing a Vulnerability Assessment
 Conducting comprehensive vulnerability assessments to identify weaknesses in systems and infrastructure.
 
-📄 **[View Lab Report](./Lab-7/)**
+📄 **[View Lab Report](./lab%207/Performing%20a%20Vulnerability%20Assessment)**
 
 ---
 
