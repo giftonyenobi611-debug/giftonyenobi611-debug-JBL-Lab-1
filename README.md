@@ -7,7 +7,7 @@ Welcome to the JBL Lab Portfolio! This repository contains a comprehensive colle
 ### Lab 1: Exploring the Seven Domains of a Typical IT Infrastructure
 Understanding the foundational structure of IT infrastructure by examining the seven critical domains that make up a typical IT environment.
 
-📄 **[View Lab Report](./Lab-1/)**
+📄 **[View Lab Report](./lab%201/Exploring%20the%20Seven%20Domains.pdf)**
 
 ---
 
