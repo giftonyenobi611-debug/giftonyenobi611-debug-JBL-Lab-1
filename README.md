@@ -21,7 +21,7 @@ Implementing and configuring robust backup and recovery mechanisms to ensure bus
 ### Lab 3: Assessing Common Attack Vectors
 Analyzing and identifying common attack vectors used by malicious actors to compromise IT systems and infrastructure.
 
-📄 **[View Lab Report](./Lab-3/)**
+📄 **[View Lab Report](./lab%203/Assessing%20Common%20Attack%20Vectors)**
 
 ---
 
