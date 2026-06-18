@@ -14,7 +14,7 @@ Understanding the foundational structure of IT infrastructure by examining the s
 ### Lab 2: Configuring Backup and Recovery Functions
 Implementing and configuring robust backup and recovery mechanisms to ensure business continuity and data protection.
 
-📄 **[View Lab Report](./Lab%202/Configuring%20Backup%20and%20Recovery%20Functions)**
+📄 **[View Lab Report](./lab%202/Configuring%20Backup%20and%20Recovery%20Functions)**
 
 ---
 
